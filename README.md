@@ -1,6 +1,5 @@
 # login_ui
-
-A new Flutter project.
+A beginner point to create a flutter login and register User Interface
 
 ## Getting Started
 
